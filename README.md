@@ -43,10 +43,10 @@ This code is enough to operate bots for all supported platforms. Claudia Bot Bui
 
 ## Creating bots
 
-[![](https://nodei.co/npm/claudia-bot-builder.svg?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/claudia-bot-builder)
-
-
 npm install https://github.com/SaraKaoru/claudia-bot-builder
+
+For original version of Claudia.js, please download via following code
+[![](https://nodei.co/npm/claudia-bot-builder.svg?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/claudia-bot-builder)
 
 
 Check out the [Getting Started](https://claudiajs.com/tutorials/hello-world-chatbot.html) guide for information on how to set up a simple bot in minutes and [API Documentation](docs/API.md) for detailed information on the API.
