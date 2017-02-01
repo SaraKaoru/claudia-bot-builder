@@ -2,3 +2,5 @@ node_modules
 claudia.json
 .idea
 .DS_Store
+
+*.log
