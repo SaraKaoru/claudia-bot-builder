@@ -63,6 +63,11 @@ describe('BotBuilder', () => {
       name: 'viber',
       path: 'viber',
       methods: ['POST']
+    },
+    {
+      name: 'line',
+      path: 'line',
+      methods: ['POST']
     }
   ].forEach(platform => {
     describe('setting up ' + platform.name, () => {

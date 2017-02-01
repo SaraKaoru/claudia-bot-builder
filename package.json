@@ -37,6 +37,7 @@
   "license": "MIT",
   "dependencies": {
     "claudia-api-builder": "^2.0.1",
+    "eslint-config-defaults": "^9.0.0",
     "minimal-request-promise": "^1.3.0",
     "oh-no-i-insist": "^1.0.0",
     "souffleur": "^1.0.0",
@@ -44,10 +45,13 @@
   },
   "devDependencies": {
     "claudia": "^2.0.0",
-    "eslint": "^2.11.1",
+    "claudia-api-builder": "^2.4.0",
+    "eslint": "^2.13.1",
+    "eslint-config-default": "^0.2.1",
     "eslint-config-defaults": "^9.0.0",
     "fake-http-request": "^1.3.0",
     "jasmine": "^2.5.2",
-    "jasmine-spec-reporter": "^2.7.0"
+    "jasmine-spec-reporter": "^2.7.0",
+    "souffleur": "^1.0.0"
   }
 }
